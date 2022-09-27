@@ -1,0 +1,26 @@
+#input-el {
+    max-width: 1000px;
+    width: 100%;
+    margin-top: 100px;
+    margin-left: 100px;
+    padding: 10px;
+
+    border: 2px solid #5f9341;
+
+}
+
+
+
+
+
+#input-btn {
+    margin-left: 100px;
+    margin-top: 20px;
+
+    padding: 10px;
+    background-color: #5f9341;
+    font-weight: bold;
+    color: white;
+    border: none;
+
+}
